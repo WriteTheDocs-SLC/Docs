@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.3">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Blue" RGB="#0000ff"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000"/>
+        <COLOR NAME="Gray-black" RGB="#4a4a4a"/>
+        <COLOR NAME="Green" RGB="#00ff00"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000"/>
+        <COLOR NAME="Red" RGB="#ff0000"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff"/>
+        <COLOR NAME="WTD Background 1" CMYK="#00000006"/>
+        <COLOR NAME="WTD Darker Blue" RGB="#138bff"/>
+        <COLOR NAME="WTD Light Blue" RGB="#7bbeff"/>
+        <COLOR NAME="WTD Orange" RGB="#ff9e70"/>
+        <COLOR NAME="WTD Teal" RGB="#00ffa5"/>
+        <COLOR NAME="WTD Yellow" RGB="#ffc570"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="56" outputSeparations="0" useSpotColors="50" useColor="0" mirrorH="98" mirrorV="0" useICC="0" doGCR="51" doClip="0" setDevParam="38" useDocBleeds="0" cropMarks="48" bleedMarks="0" registrationMarks="38" colorMarks="0" includePDFMarks="48" PSLevel="3" PDLanguage="8060963" markLength="8.90095410691029e-307" markOffset="1.39070935816473e-307" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Lucida Sans Regular"/>
+            <Subset Name="Segoe UI Bold"/>
+            <Subset Name="Segoe UI Italic"/>
+            <Subset Name="Segoe UI Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="100" YPOS="20" OwnPage="0" ItemID="197961280" PTYPE="6" WIDTH="612" HEIGHT="108" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Gray-black" PLINEART="1" path="M0 0 L612 0 L612 108 L0 108 L0 0 Z" copath="M0 0 L612 0 L612 108 L0 108 L0 0 Z" gXpos="100" gYpos="20" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="140" YPOS="48.8" OwnPage="0" ItemID="197964112" PTYPE="12" WIDTH="86.7428571428571" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="1" ANNAME="Group1" groupWidth="86.7428571428571" groupHeight="50.4" groupClips="1" path="M0 0 L86.7429 0 L86.7429 50.4 L0 50.4 L0 0 Z" copath="M0 0 L86.7429 0 L86.7429 50.4 L0 50.4 L0 0 Z" gXpos="140" gYpos="48.8" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="140" YPOS="48.8" OwnPage="0" ItemID="194907344" PTYPE="4" WIDTH="51.7714285714286" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L51.7714 0 L51.7714 50.4 L0 50.4 L0 0 Z" copath="M0 0 L51.7714 0 L51.7714 50.4 L0 50.4 L0 0 Z" gXpos="0" gYpos="0" gWidth="86.7428571428571" gHeight="50.4" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle ALIGN="1" LINESP="15" FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7"/>
+                    <ITEXT FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7" CH="WRITE"/>
+                    <para ALIGN="1" LINESP="15"/>
+                    <ITEXT FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7" CH="THE"/>
+                    <para ALIGN="1" LINESP="15"/>
+                    <ITEXT FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7" CH="DOCS"/>
+                    <trail ALIGN="1" LINESP="15"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="195.571428571429" YPOS="56" OwnPage="0" ItemID="197966944" PTYPE="5" WIDTH="36" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" PCOLOR="White" PCOLOR2="White" PLINEART="8" path="" gXpos="55.5714285714286" gYpos="7.2" gWidth="86.7428571428571" gHeight="50.4" LAYER="0"/>
+            <PAGEOBJECT XPOS="199.571428571429" YPOS="48.8" OwnPage="0" ItemID="227693536" PTYPE="4" WIDTH="27.1714285714285" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L27.1714 0 L27.1714 50.4 L0 50.4 L0 0 Z" copath="M0 0 L27.1714 0 L27.1714 50.4 L0 50.4 L0 0 Z" gXpos="59.5714285714286" gYpos="0" gWidth="86.7428571428571" gHeight="50.4" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle ALIGN="1" LINESP="15" FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Teal" SCALEH="100" KERN="7"/>
+                    <ITEXT FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="s"/>
+                    <ITEXT FONTSIZE="8" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="ALT"/>
+                    <para ALIGN="1" LINESP="15"/>
+                    <ITEXT FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="l"/>
+                    <ITEXT FONTSIZE="8" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="AKE"/>
+                    <para ALIGN="1"/>
+                    <ITEXT FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="c"/>
+                    <ITEXT FONTSIZE="8" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="ITY"/>
+                    <trail ALIGN="1"/>
+                </StoryText>
+            </PAGEOBJECT>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="285.4" YPOS="20.2" OwnPage="0" ItemID="227696496" PTYPE="4" WIDTH="353.6" HEIGHT="107.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L353.6 0 L353.6 107.6 L0 107.6 L0 0 Z" copath="M0 0 L353.6 0 L353.6 107.6 L0 107.6 L0 0 Z" gXpos="285.4" gYpos="20.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="1" FONT="Segoe UI Bold" FONTSIZE="40" FEATURES="inherit" FCOLOR="WTD Light Blue"/>
+                <ITEXT CH="Announcements"/>
+                <para LINESPMode="0" LINESP="26"/>
+                <ITEXT FONT="Segoe UI Italic" FONTSIZE="20" CH=" January 25th, 2018"/>
+                <para LINESPMode="0" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="237.6" OwnPage="0" ItemID="227699456" PTYPE="4" WIDTH="532" HEIGHT="23.2248618784529" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" copath="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" gXpos="0" gYpos="0" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Bold" FONTSIZE="20"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="19.1" CH="Change the conversation"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="260.824861878454" OwnPage="0" ItemID="227702416" PTYPE="4" WIDTH="532" HEIGHT="109.175138121546" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 109.175 L0 109.175 L0 0 Z" copath="M0 0 L532 0 L532 109.175 L0 109.175 L0 0 Z" gXpos="0" gYpos="25.3999999999999" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black" CH="Instead of stakeholder communication being a single state, it should be a process."/>
+                <para LINESPMode="0" LINESP="14"/>
+                <para LINESP="14"/>
+                <ITEXT FONTSIZE="14" CH="We’re not looking for everyone to be 100% on board - we’re looking for our direction and goals to be in alignment."/>
+                <para LINESP="14"/>
+                <para LINESP="14"/>
+                <ITEXT FONTSIZE="14" CH="Alignment means that we can have different goals, as long as they’re pointing in the same direction."/>
+                <trail LINESP="14"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="128" OwnPage="0" ItemID="227705376" PTYPE="4" WIDTH="532" HEIGHT="109.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="14.4" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 109.6 L0 109.6 L0 0 Z" copath="M0 0 L532 0 L532 109.6 L0 109.6 L0 0 Z" gXpos="140" gYpos="128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONTSIZE="14" CH="We’re not looking for everyone to be 100% on board - we’re looking for our direction and goals to be in alignment. Alignment means that we can have different goals, as long as they’re pointing in the same direction."/>
+                <para LINESPMode="0" LINESP="15"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <ITEXT FONTSIZE="14" CH="And remember: no matter how well-prepared you are, things still break. Projects, communication, processes."/>
+                <para LINESPMode="0" LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="634.8" OwnPage="0" ItemID="227720176" PTYPE="4" WIDTH="532" HEIGHT="24.8920000000004" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 24.892 L0 24.892 L0 0 Z" copath="M0 0 L532 0 L532 24.892 L0 24.892 L0 0 Z" gXpos="0" gYpos="0" gWidth="532" gHeight="140" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" FONT="Segoe UI Bold" FONTSIZE="20"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" CH="Resources"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="237.6" OwnPage="0" ItemID="227723136" PTYPE="4" WIDTH="20" HEIGHT="132.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" copath="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" gXpos="120" gYpos="237.6" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="WTD Orange" CH="|"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="502.4" OwnPage="0" ItemID="198578592" PTYPE="4" WIDTH="20" HEIGHT="132.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" copath="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" gXpos="120" gYpos="502.4" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="WTD Teal" CH="|"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="370" OwnPage="0" ItemID="198581552" PTYPE="4" WIDTH="20" HEIGHT="132.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" copath="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" gXpos="120" gYpos="370" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="WTD Yellow" CH="|"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="634.8" OwnPage="0" ItemID="198584512" PTYPE="4" WIDTH="20" HEIGHT="137.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20 0 L20 137.2 L0 137.2 L0 0 Z" copath="M0 0 L20 0 L20 137.2 L0 137.2 L0 0 Z" gXpos="120" gYpos="634.8" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="WTD Darker Blue" CH="|"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100" YPOS="772" OwnPage="0" ItemID="197969776" PTYPE="6" WIDTH="612" HEIGHT="39.4000000000001" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Gray-black" PLINEART="1" path="M0 0 L612 0 L612 39.4 L0 39.4 L0 0 Z" copath="M0 0 L612 0 L612 39.4 L0 39.4 L0 0 Z" gXpos="100" gYpos="772" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="100" YPOS="772" OwnPage="0" ItemID="198596352" PTYPE="4" WIDTH="612" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="20.16" TEXTRA="3.6" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L612 0 L612 40 L0 40 L0 0 Z" copath="M0 0 L612 0 L612 40 L0 40 L0 0 Z" gXpos="-40" gYpos="271.775138121548" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="White"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="8" FCOLOR="White" CH="Contact"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="9" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="8" CH="Ashley Newton:"/>
+                <ITEXT CH="    "/>
+                <para LINESPMode="0" LINESP="9"/>
+                <ITEXT FONTSIZE="8" CH="Kyle Rollins: KyleBlankRollins@gmail.com"/>
+                <trail LINESPMode="0" LINESP="9"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="659.692" OwnPage="0" ItemID="229173888" PTYPE="4" WIDTH="266" HEIGHT="66.7079999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L266 0 L266 66.708 L0 66.708 L0 0 Z" copath="M0 0 L266 0 L266 66.708 L0 66.708 L0 0 Z" gXpos="-241.2" gYpos="134.067138121547" gWidth="290.8" gHeight="66.1999999999999" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Bold" FONTSIZE="12" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="12" FCOLOR="Gray-black" CH="&gt;"/>
+                <ITEXT CH="Write the Docs Slack community"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="Segoe UI Italic" FONTSIZE="10" CH="http://www.writethedocs.org/slack/"/>
+                <para/>
+                <ITEXT FONT="Segoe UI Regular" CH="A great place to meet other members of the community and talk shop."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

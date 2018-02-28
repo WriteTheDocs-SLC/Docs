@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.3">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="1" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Blue" RGB="#0000ff"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000"/>
+        <COLOR NAME="Gray-black" RGB="#4a4a4a"/>
+        <COLOR NAME="Green" RGB="#00ff00"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000"/>
+        <COLOR NAME="Red" RGB="#ff0000"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff"/>
+        <COLOR NAME="WTD Background 1" CMYK="#00000006"/>
+        <COLOR NAME="WTD Darker Blue" RGB="#138bff"/>
+        <COLOR NAME="WTD Light Blue" RGB="#7bbeff"/>
+        <COLOR NAME="WTD Orange" RGB="#ff9e70"/>
+        <COLOR NAME="WTD Teal" RGB="#00ffa5"/>
+        <COLOR NAME="WTD Yellow" RGB="#ffc570"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="0" PDLanguage="0" markLength="2.13272921868307e-308" markOffset="5.84164089420883e-316" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Segoe UI Bold"/>
+            <Subset Name="Segoe UI Italic"/>
+            <Subset Name="Segoe UI Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="852" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="100" YPOS="852" OwnPage="1" ItemID="107504832" PTYPE="6" WIDTH="612" HEIGHT="108" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Gray-black" PLINEART="1" LOCK="1" path="M0 0 L612 0 L612 108 L0 108 L0 0 Z" copath="M0 0 L612 0 L612 108 L0 108 L0 0 Z" gXpos="100" gYpos="20" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="100" YPOS="20" OwnPage="0" ItemID="102203168" PTYPE="6" WIDTH="612" HEIGHT="108" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Gray-black" PLINEART="1" LOCK="1" path="M0 0 L612 0 L612 108 L0 108 L0 0 Z" copath="M0 0 L612 0 L612 108 L0 108 L0 0 Z" gXpos="100" gYpos="20" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="140" YPOS="20" OwnPage="0" ItemID="110074480" PTYPE="4" WIDTH="354.668" HEIGHT="107.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L354.668 0 L354.668 107.6 L0 107.6 L0 0 Z" copath="M0 0 L354.668 0 L354.668 107.6 L0 107.6 L0 0 Z" gXpos="140" gYpos="20" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="1" FONT="Segoe UI Bold" FONTSIZE="40" FEATURES="inherit" FCOLOR="WTD Light Blue"/>
+                <ITEXT CH="Meetup Reference"/>
+                <para LINESPMode="0" LINESP="26"/>
+                <ITEXT FONT="Segoe UI Italic" FONTSIZE="20" CH=" January 25th, 2018"/>
+                <para LINESPMode="0" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="237.6" OwnPage="0" ItemID="110064272" PTYPE="4" WIDTH="532" HEIGHT="23.2248618784529" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" copath="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" gXpos="0" gYpos="0" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Bold" FONTSIZE="20"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="19.1" CH="Change the conversation"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="260.824861878454" OwnPage="0" ItemID="110069168" PTYPE="4" WIDTH="532" HEIGHT="109.175138121546" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 109.175 L0 109.175 L0 0 Z" copath="M0 0 L532 0 L532 109.175 L0 109.175 L0 0 Z" gXpos="0" gYpos="25.3999999999999" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black" CH="Instead of stakeholder communication being a single state, it should be a process."/>
+                <para LINESPMode="0" LINESP="14"/>
+                <para LINESP="14"/>
+                <ITEXT FONTSIZE="14" CH="We’re not looking for everyone to be 100% on board - we’re looking for our direction and goals to be in alignment."/>
+                <para LINESP="14"/>
+                <para LINESP="14"/>
+                <ITEXT FONTSIZE="14" CH="Alignment means that we can have different goals, as long as they’re pointing in the same direction."/>
+                <trail LINESP="14"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="128" OwnPage="0" ItemID="110172784" PTYPE="4" WIDTH="532" HEIGHT="109.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="14.4" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 109.6 L0 109.6 L0 0 Z" copath="M0 0 L532 0 L532 109.6 L0 109.6 L0 0 Z" gXpos="140" gYpos="128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT CH="Communicating with stakeholders is critical to a project's success. These conversations shouldn't be obstacles. Instead, think of them as opportunities to align your goals with theirs and find goals and processes that work for everyone."/>
+                <para LINESPMode="0" LINESP="15"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <ITEXT FONTSIZE="14" CH="And remember: no matter how well-prepared you are, things still break. Projects, communication, processes."/>
+                <ITEXT CH=" Don't lose heart - seek alignment."/>
+                <para LINESPMode="0" LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="370" OwnPage="0" ItemID="110221824" PTYPE="4" WIDTH="532" HEIGHT="23.2248618784536" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" copath="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" gXpos="0" gYpos="0" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="15" FONT="Segoe UI Bold" FONTSIZE="20"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="19.1" CH="Goals first, then requirements"/>
+                <trail LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="393.224861878454" OwnPage="0" ItemID="110154448" PTYPE="4" WIDTH="266" HEIGHT="109.17513812155" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L266 0 L266 109.175 L0 109.175 L0 0 Z" copath="M0 0 L266 0 L266 109.175 L0 109.175 L0 0 Z" gXpos="0" gYpos="25.4" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="15" FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black" CH="Come to stakeholder meetings with at least a sketched out idea of their high-level goals for the project."/>
+                <para LINESP="15"/>
+                <para/>
+                <ITEXT FONTSIZE="14" CH="They'll see your versatility and be more willing to collaborate."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="502.4" OwnPage="0" ItemID="110160336" PTYPE="4" WIDTH="532" HEIGHT="23.2248618784536" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" copath="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" gXpos="0" gYpos="0" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="15" FONT="Segoe UI Bold" FONTSIZE="20"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="19.1" CH="E"/>
+                <ITEXT FONTSIZE="19.1" CH="mploy empathy"/>
+                <trail LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="525.624861878452" OwnPage="0" ItemID="110163184" PTYPE="4" WIDTH="266" HEIGHT="109.175138121548" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="14.4" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L266 0 L266 109.175 L0 109.175 L0 0 Z" copath="M0 0 L266 0 L266 109.175 L0 109.175 L0 0 Z" gXpos="0" gYpos="25.4" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black" CH="Everyone also has a thousand things trying to get their attention. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black" CH="Everyone has a thousand things clamoring for their attention. Put yourself in your stakeholders’ shoes."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="634.8" OwnPage="0" ItemID="110195296" PTYPE="4" WIDTH="532" HEIGHT="24.8920000000004" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 24.892 L0 24.892 L0 0 Z" copath="M0 0 L532 0 L532 24.892 L0 24.892 L0 0 Z" gXpos="0" gYpos="0" gWidth="532" gHeight="140" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" FONT="Segoe UI Bold" FONTSIZE="20"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="19.8" CH="Three types of emails"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="237.6" OwnPage="0" ItemID="110198144" PTYPE="4" WIDTH="20" HEIGHT="132.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" copath="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" gXpos="120" gYpos="237.6" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="WTD Orange" CH="|"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="502.4" OwnPage="0" ItemID="110200992" PTYPE="4" WIDTH="20" HEIGHT="132.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" copath="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" gXpos="120" gYpos="502.4" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="WTD Teal" CH="|"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="370" OwnPage="0" ItemID="110203840" PTYPE="4" WIDTH="20" HEIGHT="132.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" copath="M0 0 L20 0 L20 132.4 L0 132.4 L0 0 Z" gXpos="120" gYpos="370" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="WTD Yellow" CH="|"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="634.8" OwnPage="0" ItemID="110206688" PTYPE="4" WIDTH="20" HEIGHT="137.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20 0 L20 137.2 L0 137.2 L0 0 Z" copath="M0 0 L20 0 L20 137.2 L0 137.2 L0 0 Z" gXpos="120" gYpos="634.8" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" FCOLOR="WTD Darker Blue" CH="|"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="659.692" OwnPage="0" ItemID="110984672" PTYPE="4" WIDTH="177.336" HEIGHT="112.308" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L177.336 0 L177.336 112.308 L0 112.308 L0 0 Z" copath="M0 0 L177.336 0 L177.336 112.308 L0 112.308 L0 0 Z" gXpos="0" gYpos="159.467138121548" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="14" FCOLOR="Gray-black" CH="Oh shit - this broke"/>
+                <para ALIGN="0"/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="12" FCOLOR="Gray-black" CH=" What broke"/>
+                <para ALIGN="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="12" FCOLOR="Gray-black" CH=" What effect we’ll see"/>
+                <para ALIGN="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="12" FCOLOR="Gray-black" CH=" What steps we’re taking to  make sure it never happens again"/>
+                <trail ALIGN="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="317.332" YPOS="659.692" OwnPage="0" ItemID="110987520" PTYPE="4" WIDTH="177.336" HEIGHT="112.308" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L177.336 0 L177.336 112.308 L0 112.308 L0 0 Z" copath="M0 0 L177.336 0 L177.336 112.308 L0 112.308 L0 0 Z" gXpos="177.332" gYpos="159.467138121548" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="14" FCOLOR="Gray-black" CH="FYI"/>
+                <para ALIGN="0"/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="12" FCOLOR="Gray-black" CH="Requires no response from leadership"/>
+                <ITEXT CH="."/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="12" FCOLOR="Gray-black" CH=" Just an update on status of a project."/>
+                <trail ALIGN="0" LINESP="15" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="494.664" YPOS="659.692" OwnPage="0" ItemID="110990368" PTYPE="4" WIDTH="177.336" HEIGHT="112.308" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L177.336 0 L177.336 112.308 L0 112.308 L0 0 Z" copath="M0 0 L177.336 0 L177.336 112.308 L0 112.308 L0 0 Z" gXpos="354.664" gYpos="159.467138121548" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="14" FCOLOR="Gray-black" CH="Huzzah!"/>
+                <para ALIGN="0"/>
+                <ITEXT FONT="Segoe UI Regular" FONTSIZE="12" FCOLOR="Gray-black" CH="Look at this cool thing/success/win/achievement! Celebrate with us!"/>
+                <trail ALIGN="0" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100" YPOS="772" OwnPage="0" ItemID="110168016" PTYPE="6" WIDTH="612" HEIGHT="39.4000000000001" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Gray-black" PLINEART="1" path="M0 0 L612 0 L612 39.4 L0 39.4 L0 0 Z" copath="M0 0 L612 0 L612 39.4 L0 39.4 L0 0 Z" gXpos="100" gYpos="772" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="100" YPOS="772" OwnPage="0" ItemID="110993216" PTYPE="4" WIDTH="588" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="20.16" TEXTRA="3.6" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L588 0 L588 40 L0 40 L0 0 Z" copath="M0 0 L588 0 L588 40 L0 40 L0 0 Z" gXpos="-40" gYpos="271.775138121548" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="White"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="8" FCOLOR="White" CH="Resources"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="9" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="8" CH="Management of Differences ("/>
+                <ITEXT FONTSIZE="8" FCOLOR="WTD Light Blue" CH="https://hbr.org/1960/11/management-of-differences"/>
+                <ITEXT FONTSIZE="8" CH=")"/>
+                <para LINESPMode="0" LINESP="9"/>
+                <ITEXT FONTSIZE="8" CH="The Obstacle is the Way (book by Ryan Holiday)"/>
+                <trail LINESPMode="0" LINESP="9"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="406" YPOS="580.212430939227" OwnPage="0" ItemID="111459824" PTYPE="4" WIDTH="133" HEIGHT="54.5875690607724" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L133 0 L133 54.5876 L0 54.5876 L0 0 Z" copath="M0 0 L133 0 L133 54.5876 L0 54.5876 L0 0 Z" gXpos="24.8" gYpos="54.5875690607732" gWidth="290.8" gHeight="66.1999999999999" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="12" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="12" CH="&gt;Personal context"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="Segoe UI Italic" CH="Kids, spouse, master's program, car accident"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="406" YPOS="525.624861878453" OwnPage="0" ItemID="111462784" PTYPE="4" WIDTH="133" HEIGHT="54.5875690607741" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L133 0 L133 54.5876 L0 54.5876 L0 0 Z" copath="M0 0 L133 0 L133 54.5876 L0 54.5876 L0 0 Z" gXpos="24.8" gYpos="-7.95807864051312e-13" gWidth="290.8" gHeight="66.1999999999999" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Bold" FONTSIZE="12" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="12" FCOLOR="Gray-black" CH="&gt;Deadlines"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="Segoe UI Italic" CH="Upcoming meetings, board requirements"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="539" YPOS="525.624861878454" OwnPage="0" ItemID="111465744" PTYPE="4" WIDTH="133" HEIGHT="54.5875690607724" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L133 0 L133 54.5876 L0 54.5876 L0 0 Z" copath="M0 0 L133 0 L133 54.5876 L0 54.5876 L0 0 Z" gXpos="157.8" gYpos="0" gWidth="290.8" gHeight="66.1999999999999" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Bold" FONTSIZE="12" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="12" FCOLOR="Gray-black" CH="&gt;Reporting structure"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="Segoe UI Italic" CH="Manager type, personality, check-ins"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="539" YPOS="580.212430939226" OwnPage="0" ItemID="111468704" PTYPE="4" WIDTH="133" HEIGHT="54.5875690607741" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L133 0 L133 54.5876 L0 54.5876 L0 0 Z" copath="M0 0 L133 0 L133 54.5876 L0 54.5876 L0 0 Z" gXpos="157.8" gYpos="54.5875690607724" gWidth="290.8" gHeight="66.1999999999999" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Bold" FONTSIZE="12" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="12" FCOLOR="Gray-black" CH="&gt;Communication style"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="Segoe UI Italic" CH="Dollars, time, company benefit and growth"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="406" YPOS="393.224861878454" OwnPage="0" ItemID="111471664" PTYPE="4" WIDTH="266" HEIGHT="21.487569060774" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L266 0 L266 21.4876 L0 21.4876 L0 0 Z" copath="M0 0 L266 0 L266 21.4876 L0 21.4876 L0 0 Z" gXpos="-24.8" gYpos="0" gWidth="241.2" gHeight="109.175138121548" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="12" FCOLOR="Gray-black" CH="Communication tips"/>
+                <para LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="406" YPOS="414.712430939228" OwnPage="0" ItemID="111474624" PTYPE="4" WIDTH="133" HEIGHT="87.687569060774" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L133 0 L133 87.6876 L0 87.6876 L0 0 Z" copath="M0 0 L133 0 L133 87.6876 L0 87.6876 L0 0 Z" gXpos="-24.8" gYpos="21.487569060774" gWidth="241.2" gHeight="109.175138121548" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONTSIZE="12" CH=" Don't defend"/>
+                <para LINESP="15" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="12" CH=" Don't deflect"/>
+                <para LINESP="15" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="12" CH=" Try to understand"/>
+                <para LINESP="15" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="12" CH=" Remember values"/>
+                <para LINESP="15" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="539" YPOS="414.712430939228" OwnPage="0" ItemID="111477584" PTYPE="4" WIDTH="133" HEIGHT="87.687569060774" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L133 0 L133 87.6876 L0 87.6876 L0 0 Z" copath="M0 0 L133 0 L133 87.6876 L0 87.6876 L0 0 Z" gXpos="108.2" gYpos="21.487569060774" gWidth="241.2" gHeight="109.175138121548" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONTSIZE="12" CH=" Remember goals"/>
+                <para LINESP="15" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="12" CH=" Remember methods"/>
+                <para LINESP="15" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="12" CH=" Remember facts"/>
+                <para LINESP="15" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="578.056142857143" YPOS="48.6" OwnPage="0" ItemID="110996064" PTYPE="12" WIDTH="93.9438571428575" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="0" ANNAME="Group7" groupWidth="93.9438571428575" groupHeight="50.4" groupClips="1" path="M0 0 L93.9439 0 L93.9439 50.4 L0 50.4 L0 0 Z" copath="M0 0 L93.9439 0 L93.9439 50.4 L0 50.4 L0 0 Z" gXpos="578.056142857143" gYpos="48.6" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="578.056142857143" YPOS="48.6" OwnPage="0" ItemID="111480544" PTYPE="4" WIDTH="58.9724285714286" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L58.9724 0 L58.9724 50.4 L0 50.4 L0 0 Z" copath="M0 0 L58.9724 0 L58.9724 50.4 L0 50.4 L0 0 Z" gXpos="0" gYpos="0" gWidth="93.9438571428575" gHeight="50.4" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle ALIGN="2" LINESP="15" FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7"/>
+                    <ITEXT FONT="Segoe UI Bold" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7" CH="WRITE"/>
+                    <para ALIGN="2" LINESP="15"/>
+                    <ITEXT FONT="Segoe UI Bold" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7" CH="THE"/>
+                    <para ALIGN="2" LINESP="15"/>
+                    <ITEXT FONT="Segoe UI Bold" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7" CH="DOCS"/>
+                    <trail ALIGN="2" LINESP="15"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="644.828571428572" YPOS="48.6" OwnPage="0" ItemID="111483504" PTYPE="4" WIDTH="27.1714285714285" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L27.1714 0 L27.1714 50.4 L0 50.4 L0 0 Z" copath="M0 0 L27.1714 0 L27.1714 50.4 L0 50.4 L0 0 Z" gXpos="66.772428571429" gYpos="0" gWidth="93.9438571428575" gHeight="50.4" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle ALIGN="1" LINESP="15" FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Teal" SCALEH="100" KERN="7"/>
+                    <ITEXT FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="s"/>
+                    <ITEXT FONTSIZE="8" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="ALT"/>
+                    <para ALIGN="1" LINESP="15"/>
+                    <ITEXT FONTSIZE="16" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="l"/>
+                    <ITEXT FONTSIZE="8" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="AKE"/>
+                    <para ALIGN="1"/>
+                    <ITEXT FONTSIZE="16" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="c"/>
+                    <ITEXT FONTSIZE="8" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="ITY"/>
+                    <trail ALIGN="1"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="640.828571428572" YPOS="55.8" OwnPage="0" ItemID="111271360" PTYPE="5" WIDTH="36" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="0" PCOLOR="WTD Background 1" PCOLOR2="WTD Background 1" PLINEART="1" path="" gXpos="62.772428571429" gYpos="7.2" gWidth="93.9438571428575" gHeight="50.4" LAYER="0"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="852" OwnPage="1" ItemID="111486464" PTYPE="4" WIDTH="354.668" HEIGHT="107.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L354.668 0 L354.668 107.6 L0 107.6 L0 0 Z" copath="M0 0 L354.668 0 L354.668 107.6 L0 107.6 L0 0 Z" gXpos="140" gYpos="20" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="1" FONT="Segoe UI Bold" FONTSIZE="40" FEATURES="inherit" FCOLOR="WTD Light Blue"/>
+                <ITEXT CH="Agenda and Info."/>
+                <para LINESPMode="0" LINESP="26"/>
+                <ITEXT FONT="Segoe UI Italic" FONTSIZE="20" CH=" January 25th, 2018"/>
+                <para LINESPMode="0" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="578.056142857143" YPOS="880.6" OwnPage="1" ItemID="111274112" PTYPE="12" WIDTH="93.9438571428575" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="0" ANNAME="Copy of Group7" groupWidth="93.9438571428575" groupHeight="50.4" groupClips="1" path="M0 0 L93.9439 0 L93.9439 50.4 L0 50.4 L0 0 Z" copath="M0 0 L93.9439 0 L93.9439 50.4 L0 50.4 L0 0 Z" gXpos="578.056142857143" gYpos="48.6" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="678.056142857143" YPOS="900.6" OwnPage="1" ItemID="111489424" PTYPE="4" WIDTH="58.9724285714286" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L58.9724 0 L58.9724 50.4 L0 50.4 L0 0 Z" copath="M0 0 L58.9724 0 L58.9724 50.4 L0 50.4 L0 0 Z" gXpos="0" gYpos="0" gWidth="93.9438571428575" gHeight="50.4" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle ALIGN="2" LINESP="15" FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7"/>
+                    <ITEXT FONT="Segoe UI Bold" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7" CH="WRITE"/>
+                    <para ALIGN="2" LINESP="15"/>
+                    <ITEXT FONT="Segoe UI Bold" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7" CH="THE"/>
+                    <para ALIGN="2" LINESP="15"/>
+                    <ITEXT FONT="Segoe UI Bold" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Background 1" KERN="7" CH="DOCS"/>
+                    <trail ALIGN="2" LINESP="15"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="744.828571428572" YPOS="900.6" OwnPage="1" ItemID="111492384" PTYPE="4" WIDTH="27.1714285714285" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L27.1714 0 L27.1714 50.4 L0 50.4 L0 0 Z" copath="M0 0 L27.1714 0 L27.1714 50.4 L0 50.4 L0 0 Z" gXpos="66.772428571429" gYpos="0" gWidth="93.9438571428575" gHeight="50.4" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle ALIGN="1" LINESP="15" FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Teal" SCALEH="100" KERN="7"/>
+                    <ITEXT FONT="Segoe UI Regular" FONTSIZE="16" FEATURES="inherit allcaps" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="s"/>
+                    <ITEXT FONTSIZE="8" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="ALT"/>
+                    <para ALIGN="1" LINESP="15"/>
+                    <ITEXT FONTSIZE="16" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="l"/>
+                    <ITEXT FONTSIZE="8" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="AKE"/>
+                    <para ALIGN="1"/>
+                    <ITEXT FONTSIZE="16" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="c"/>
+                    <ITEXT FONTSIZE="8" FCOLOR="WTD Teal" SCALEH="100" KERN="7" CH="ITY"/>
+                    <trail ALIGN="1"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="740.828571428572" YPOS="907.8" OwnPage="1" ItemID="110484992" PTYPE="5" WIDTH="36" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="0" PCOLOR="WTD Background 1" PCOLOR2="WTD Background 1" PLINEART="1" path="" gXpos="62.772428571429" gYpos="7.2" gWidth="93.9438571428575" gHeight="50.4" LAYER="0"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100" YPOS="1604" OwnPage="1" ItemID="110487744" PTYPE="6" WIDTH="612" HEIGHT="39.4000000000001" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Gray-black" PLINEART="1" path="M0 0 L612 0 L612 39.4 L0 39.4 L0 0 Z" copath="M0 0 L612 0 L612 39.4 L0 39.4 L0 0 Z" gXpos="100" gYpos="772" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="140" YPOS="1116" OwnPage="1" ItemID="111495344" PTYPE="4" WIDTH="532" HEIGHT="23.2248618784529" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" copath="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" gXpos="0" gYpos="46.4000000000001" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Bold" FONTSIZE="20"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" CH="Agenda"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="960" OwnPage="1" ItemID="111498304" PTYPE="4" WIDTH="532" HEIGHT="156" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="14.4" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 156 L0 156 L0 0 Z" copath="M0 0 L532 0 L532 156 L0 156 L0 0 Z" gXpos="140" gYpos="128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" CH="February meetup"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <ITEXT CH="Details pending. Expect to see something in the next week or two."/>
+                <para LINESPMode="0" LINESP="15"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="Segoe UI Bold" CH="Write the Docs Portland 2018"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <ITEXT CH="When: May 6-8"/>
+                <para/>
+                <ITEXT CH="Tickets available now: "/>
+                <para/>
+                <tab/>
+                <ITEXT CH="&gt; Student or Unemployed: $100"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="&gt; Independent: $250"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="&gt; Corporate: $450"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1139.22486187845" OwnPage="1" ItemID="111501264" PTYPE="4" WIDTH="532" HEIGHT="305.575138121547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="14.4" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 305.575 L0 305.575 L0 0 Z" copath="M0 0 L532 0 L532 305.575 L0 305.575 L0 0 Z" gXpos="140" gYpos="307.224861878453" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT FONT="Segoe UI Bold" CH="Introductions"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <tab/>
+                <ITEXT CH="&gt; We're in a library..."/>
+                <para LINESPMode="0" LINESP="15"/>
+                <ITEXT CH=" "/>
+                <tab/>
+                <ITEXT CH="&gt; Wrap up by 8:45 because the library closes at 9:00. They need time to lock up."/>
+                <para LINESPMode="0" LINESP="15"/>
+                <para/>
+                <ITEXT FONT="Segoe UI Bold" CH="Write the Docs code of conduct"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="&gt; Be friendly"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="&gt; Be respectful"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="&gt; Be careful about the words you choose"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Segoe UI Bold" CH="Talking to Stakeholders"/>
+                <ITEXT CH=" (presentation by Jess Hutton)"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="&gt; Seek alignment in goals."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Segoe UI Bold" CH="Q&amp;A"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="&gt; Ask Jess or the group pressing questions."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Segoe UI Bold" CH="Small group activity"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="&gt; Take on various roles to practice what Jess covered."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Segoe UI Bold" CH="Closing remarks"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1444.8" OwnPage="1" ItemID="111504224" PTYPE="4" WIDTH="532" HEIGHT="23.2248618784529" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" copath="M0 0 L532 0 L532 23.2249 L0 23.2249 L0 0 Z" gXpos="0" gYpos="375.2" gWidth="532" gHeight="144.8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Bold" FONTSIZE="20"/>
+                <ITEXT FONT="Segoe UI Bold" FONTSIZE="20" CH="Your notes"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1468.02486187845" OwnPage="1" ItemID="111507184" PTYPE="4" WIDTH="532" HEIGHT="135.975138121547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="14.4" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 135.975 L0 135.975 L0 0 Z" copath="M0 0 L532 0 L532 135.975 L0 135.975 L0 0 Z" gXpos="140" gYpos="636.024861878453" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Segoe UI Regular" FONTSIZE="14" FCOLOR="Gray-black"/>
+                <ITEXT CH="________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
