@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Own Templates">
+		<name>WTD_Agenda</name>
+		<file>Document-1.sla</file>
+		<tnail>WTD_Agendatn.png</tnail>
+		<img>WTD_Agenda.png</img>
+		<psize>Letter, portrait</psize>
+		<color></color>
+		<descr></descr>
+		<usage></usage>
+		<scribus_version>1.5.3</scribus_version>
+		<date>2018-03-20</date>
+		<author></author>
+		<email></email>
+	</template>
+	<template category="Own Templates">
+		<name>WTD Agenda</name>
+		<file>Document-1.sla</file>
+		<tnail>WTD Agendatn.png</tnail>
+		<img>WTD Agenda.png</img>
+		<psize>Letter, portrait</psize>
+		<color></color>
+		<descr></descr>
+		<usage></usage>
+		<scribus_version>1.5.3</scribus_version>
+		<date>2018-03-20</date>
+		<author></author>
+		<email></email>
+	</template>
+</templates>
