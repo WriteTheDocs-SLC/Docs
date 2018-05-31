@@ -10,6 +10,12 @@ Keep in mind that the files in this repo consist of a range of file types optimi
 
 Please read our [code of conduct](http://www.writethedocs.org/code-of-conduct/).
 
+## Tools
+Documents for WTD SLC are created primarily with the following tools:
++ __Scribus.__ Open source page layout software simliar to InDesign. Version 1.5.x (the development branch) is much easier to use than previous versions, but it can take a while to get used to Scribus. https://www.scribus.net/
++ __Inkscape.__ Open source vector graphics editor. https://inkscape.org/en/
++ __GIMP.__ Open source image editor. https://www.gimp.org/
+
 ## Authors
 
 * **Kyle Rollins** - Repository creator
